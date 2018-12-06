@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\CognitiveServices\CognitiveServices\bin\Debug\netcoreapp2.0\CognitiveServices.deps.json
+C:\Users\Administrator\source\repos\CognitiveServices\CognitiveServices\bin\Debug\netcoreapp2.0\CognitiveServices.runtimeconfig.json
+C:\Users\Administrator\source\repos\CognitiveServices\CognitiveServices\bin\Debug\netcoreapp2.0\CognitiveServices.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\CognitiveServices\CognitiveServices\bin\Debug\netcoreapp2.0\CognitiveServices.dll
+C:\Users\Administrator\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.0\CognitiveServices.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.0\CognitiveServices.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.0\CognitiveServices.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.0\CognitiveServices.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CognitiveServices\CognitiveServices\bin\Debug\netcoreapp2.0\CognitiveServices.pdb
+C:\Users\Administrator\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.0\CognitiveServices.dll
+C:\Users\Administrator\source\repos\CognitiveServices\CognitiveServices\obj\Debug\netcoreapp2.0\CognitiveServices.pdb

@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\CognitiveServices\AzureSearch\bin\Debug\netcoreapp2.0\AzureSearch.deps.json
+C:\Users\Administrator\source\repos\CognitiveServices\AzureSearch\bin\Debug\netcoreapp2.0\AzureSearch.runtimeconfig.json
+C:\Users\Administrator\source\repos\CognitiveServices\AzureSearch\bin\Debug\netcoreapp2.0\AzureSearch.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\CognitiveServices\AzureSearch\bin\Debug\netcoreapp2.0\AzureSearch.dll
+C:\Users\Administrator\source\repos\CognitiveServices\AzureSearch\obj\Debug\netcoreapp2.0\AzureSearch.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CognitiveServices\AzureSearch\obj\Debug\netcoreapp2.0\AzureSearch.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CognitiveServices\AzureSearch\obj\Debug\netcoreapp2.0\AzureSearch.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CognitiveServices\AzureSearch\bin\Debug\netcoreapp2.0\AzureSearch.pdb
+C:\Users\Administrator\source\repos\CognitiveServices\AzureSearch\obj\Debug\netcoreapp2.0\AzureSearch.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CognitiveServices\AzureSearch\obj\Debug\netcoreapp2.0\AzureSearch.dll
+C:\Users\Administrator\source\repos\CognitiveServices\AzureSearch\obj\Debug\netcoreapp2.0\AzureSearch.pdb

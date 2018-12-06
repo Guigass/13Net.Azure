@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\CognitiveServices\Bing\bin\Debug\netcoreapp2.0\Bing.deps.json
+C:\Users\Administrator\source\repos\CognitiveServices\Bing\bin\Debug\netcoreapp2.0\Bing.runtimeconfig.json
+C:\Users\Administrator\source\repos\CognitiveServices\Bing\bin\Debug\netcoreapp2.0\Bing.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\CognitiveServices\Bing\bin\Debug\netcoreapp2.0\Bing.dll
+C:\Users\Administrator\source\repos\CognitiveServices\Bing\obj\Debug\netcoreapp2.0\Bing.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CognitiveServices\Bing\obj\Debug\netcoreapp2.0\Bing.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CognitiveServices\Bing\obj\Debug\netcoreapp2.0\Bing.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CognitiveServices\Bing\bin\Debug\netcoreapp2.0\Bing.pdb
+C:\Users\Administrator\source\repos\CognitiveServices\Bing\obj\Debug\netcoreapp2.0\Bing.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CognitiveServices\Bing\obj\Debug\netcoreapp2.0\Bing.dll
+C:\Users\Administrator\source\repos\CognitiveServices\Bing\obj\Debug\netcoreapp2.0\Bing.pdb
